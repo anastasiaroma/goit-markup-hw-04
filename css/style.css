@@ -399,13 +399,10 @@ body {
 .partners-link:hover,
 .partners-link:focus {
   border-color: #2196f3;
+  color: #2196f3;
 }
 .partners-link:hover.partners-logo,
 .partners-link:focus.partners-logo {
-  fill: #2196f3;
-}
-.partners-logo:hover,
-.partners-logo:focus {
   fill: #2196f3;
 }
 
